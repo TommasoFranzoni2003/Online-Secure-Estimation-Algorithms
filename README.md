@@ -32,7 +32,8 @@ The performance and behavior of the algorithms are analyzed using four key metri
 3. The script will automatically compute the estimates and generate the performance graphs across all iterations.
 
 **Authors**
-*Buson Daniele
-*Falco Abramo Calogero
-*Franzoni Tommaso
-*Martinelli Alex
+* Buson Daniele
+* Falco Abramo Calogero
+* Franzoni Tommaso
+* Martinelli Alex
+Final Project for the Modeling and Control of Cyber-Physical Systems (CPSs) course at Politecnico di Torino.
