@@ -22,8 +22,8 @@ The performance and behavior of the algorithms are analyzed using four key metri
 * 📈 **State estimation error:** Quantifies the normalized distance between the estimated state and the true state trajectory.
 
 ## 📂 Repository Contents
-* 📄 `Project_summary.pdf`: The complete report detailing the theoretical analysis, dynamic scheduling, hyperparameter tuning, and graphical results.
-* 💻 `all_alg.m`: The primary MATLAB script that executes all four algorithms and generates the comparative plots.
+* 📄 `Project_Summary.pdf`: The complete report detailing the theoretical analysis, dynamic scheduling, hyperparameter tuning, and graphical results.
+* 💻 `Algorithms/all_alg.m`: The primary MATLAB script that executes all four algorithms and generates the comparative plots.
 * 💾 `dynamic_CPS_data.mat`: The dataset containing the system matrices (`A`, `C`), initial state (`x0`), and the true sparse attack vector (`a`) required to simulate the environment.
 
 ## 🚀 How to Run
